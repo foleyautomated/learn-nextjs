@@ -19,12 +19,12 @@ const links = [
   },
   {
     name: "Invoices",
-    href: "/ui/invoices",
+    href: "/ui/dashboard/invoices",
     icon: DocumentDuplicateIcon,
   },
   {
     name: "Customers",
-    href: "/ui/customers",
+    href: "/ui/dashboard/customers",
     icon: UserGroupIcon,
   },
 ];
